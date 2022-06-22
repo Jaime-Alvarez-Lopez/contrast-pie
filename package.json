@@ -1,0 +1,26 @@
+{
+    "name": "contrast-glow-pie",
+    "displayName": "Contrast Glow Pie",
+    "description": "This theme is a dark contrast theme with purple, red, yellow and green colors. Enjoy!",
+    "publisher": "jalvlopds",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ask4you2002/contrast-pie"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Contrast Glow Pie",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Contrast Glow Pie-color-theme.json"
+            }
+        ]
+    }
+}
